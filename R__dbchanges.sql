@@ -7,4 +7,4 @@
 
 --delete from department where id in (7,8);
 
-insert into department values (1,'Science',1047);
+insert into department values (11,'Science',1080);
